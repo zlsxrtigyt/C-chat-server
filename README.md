@@ -6,3 +6,5 @@ quit the client with just writing:
 :quit
 
 and thats all i hope you like it.
+
+yea and only linux
